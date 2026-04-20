@@ -56,7 +56,7 @@ This project develops a machine learning model to classify credit risk using his
 ## ▶️ Instructions to Run the Project
 1. Clone the repository: `git clone https://github.com/AvanthaD98/fintech_loan-risk_model`
 2. Ensure required libraries are installed: `pip install pandas numpy matplotlib seaborn scikit-learn`
-3. Open `Fintech_Credit_Model - 22189707 - FIN5016.ipynb` and run all cells in order.
+3. Open `Fintech_Credit_Model_22189707_FIN5016.ipynb` and run all cells in order.
 
 ---
 
