@@ -1,11 +1,11 @@
-# SBA Loan Default Predictor
+# SBA Loan Default Predicting Model
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/AvanthaD98/fintech_loan-risk_model)
 [![Dataset](https://img.shields.io/badge/Data-SBA%20National-orange)](https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied/data)
 [![Dataset](https://img.shields.io/badge/Data-FRED%20Macrodata-green)](https://fred.stlouisfed.org/release/tables?rid=112&eid=1195039)
 
 ## 📌 Project Overview
-This project develops a machine learning pipeline to classify credit risk using historical U.S. Small Business Administration (SBA) loan data. The model is designed to identify potential loan defaults at the point of approval and support better lending decisions by comparing a baseline Logistic Regression model with a tuned Random Forest model.
+This project develops a machine learning model to classify credit risk using historical U.S. Small Business Administration (SBA) loan data and state unemployment data. The model is designed to identify potential loan defaults at the point of approval and support better lending decisions by comparing a baseline Logistic Regression model with a tuned Random Forest model.
 
 ## 📊 Data Sources
 1. **SBA National Dataset:** Historical records of 890k+ loans ([Source](https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied/data)).
